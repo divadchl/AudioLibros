@@ -42,7 +42,7 @@ public class Libro {
                 Libro.G_S_XIX, true, true));
         libros.add(new Libro("Canción de Rolando", "Anónimo", R.drawable.cancion_rolando, SERVIDOR+"cancion_rolando.mp3",
                 Libro.G_EPICO, false, true));
-        libros.add(new Libro("Matrimonio de sabuesos", "Agata Christie", R. drawable. motrimonio_sabuesos, SERVIDOR + "matrim_sabuesos.mp3",
+        libros.add(new Libro("Matrimonio de sabuesos", "Agata Christie", R. drawable.motrimonio_sabuesos, SERVIDOR + "matrim_sabuesos.mp3",
                 Libro.G_SUSPENSE, false, true));
         libros.add(new Libro("La iliada", "Homero", R.drawable.iliada, SERVIDOR+"la_iliada.mp3",
                 Libro.G_EPICO, true, false));
